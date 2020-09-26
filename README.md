@@ -1,2 +1,2 @@
 # TestNewComputer
-Test Repo for new Computer
+Test Repo for new Computer from Terminal
